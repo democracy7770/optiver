@@ -1,1 +1,10 @@
+kaggle
+jupyter
+ipykernel
+autopep8
 pandas
+plotnine
+glob2
+joblib
+scikit-learn
+pyarrow
